@@ -60,10 +60,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rfflsy16&theme=radical&layout=compact" alt="Most Used Languages" />
 </p>
 
-<div align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=rfflsy16&theme=radical" alt="Streak Stats" />
-</div>
-
 <h2 align="center">🏆 Epic Project Showcase 🏆</h2>
 
 <div align="center">
