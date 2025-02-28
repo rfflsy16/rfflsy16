@@ -176,5 +176,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" width="100%" />
 </div>
 
-<!-- Scripts for extra functionality -->
-<img src="https://c4-p.ops.gh.mintter.com/v1/stars?userid=rfflsy16&count=3" style="display: none;">
