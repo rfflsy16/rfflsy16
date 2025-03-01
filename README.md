@@ -146,7 +146,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Hacktiv8-Full_Stack_JavaScript-FF6B6B?style=for-the-badge&labelColor=black" alt="Hacktiv8" />
+  <img src="https://img.shields.io/badge/Hacktiv8-Full_Stack_Developer-FF6B6B?style=for-the-badge&labelColor=black" alt="Hacktiv8" />
   <img src="https://img.shields.io/badge/HackerRank-Problem_Solving_(Basic)-00EA64?style=for-the-badge&logo=hackerrank&labelColor=black" alt="Problem Solving" />
   <img src="https://img.shields.io/badge/HackerRank-JavaScript_(Basic)-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HackerRank-CSS-1572B6?style=for-the-badge&logo=css3&labelColor=black" alt="CSS" />
