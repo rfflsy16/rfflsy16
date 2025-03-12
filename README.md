@@ -46,7 +46,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nest,honojs,ts,js,go,redux,tailwind,nodejs,bun,express,mongodb,postgres,mysql,graphql,sequelize,redis,jest,git,vercel&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nest,ts,js,go,redux,tailwind,nodejs,bun,express,mongodb,postgres,mysql,graphql,sequelize,redis,jest,git,vercel&perline=9" alt="Tech Stack" />
 </div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
