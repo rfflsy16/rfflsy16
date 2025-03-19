@@ -51,10 +51,6 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rfflsy16&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rfflsy16&theme=radical" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rfflsy16&theme=radical&layout=compact" alt="Most Used Languages" />
