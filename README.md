@@ -56,7 +56,7 @@
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rfflsy16&show_icons=true&count_private=true&theme=radical" alt="Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rfflsy16&theme=radical" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rfflsy16&theme=radical&layout=compact" alt="Most Used Languages" />
 </p>
 
