@@ -20,7 +20,7 @@
       <h2 align="center">🚀 The Developer Journey</h2>
       <img align="right" width="150" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFodXh2bjkxNTdlZGtqc2Jlc2ZnZzlhcGN0a2pqOTJyYWpueTJjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" />
       <p>
-        From scientific foundations (MIPA) to coding wizardry, my journey is fueled by curiosity and analytical thinking. Fresh from Hacktiv8's coding crucible, I craft digital experiences that delight users and solve real problems.
+       My journey is fueled by curiosity and analytical thinking. Fresh from Hacktiv8's coding crucible, I craft digital experiences that delight users and solve real problems.
       </p>
       <p>
         I don't just build apps - I create digital experiences that matter. Every line of code is an opportunity to make technology more intuitive, accessible, and enjoyable.
