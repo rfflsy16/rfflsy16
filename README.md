@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+digital+dreams+with+code;Crafting+elegant+solutions;Transforming+ideas+into+reality&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rfflsy16/count.svg" alt="Visitor Count" />
-  <br />
-  <b>👁️ Visitors Enchanted</b>
-</div>
 
 <br />
 
